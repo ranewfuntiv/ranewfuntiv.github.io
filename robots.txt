@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ranewfuntiv.github.io/sitemap.html
+Sitemap: https://ranewfuntiv.github.io/app/sitemap.html
+Sitemap: https://ranewfuntiv.github.io/assets/sitemap.html
+Sitemap: https://ranewfuntiv.github.io/css/sitemap.html
+Sitemap: https://ranewfuntiv.github.io/includes/sitemap.html
+Sitemap: https://ranewfuntiv.github.io/item/sitemap.html
+Sitemap: https://ranewfuntiv.github.io/src/sitemap.html
